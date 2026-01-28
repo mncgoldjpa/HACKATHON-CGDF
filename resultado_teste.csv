@@ -1,0 +1,11 @@
+id_pedido,contem_dados_pessoais,confianca,tipos_detectados,explicacao
+LAI_001,true,0.95,"['CPF', 'NOME']","Detectados 2 dado(s) pessoal(is): CPF, NOME via REGEX."
+LAI_002,false,0.0,"[]","Nenhum dado pessoal identificado pelo detector automático."
+LAI_003,true,0.85,"['TELEFONE', 'NOME']","Detectados 2 dado(s) pessoal(is): TELEFONE, NOME via REGEX."
+LAI_004,false,0.0,"[]","Nenhum dado pessoal identificado pelo detector automático."
+LAI_005,true,0.60,"['EMAIL']","Detectados 1 dado(s) pessoal(is): EMAIL via REGEX."
+LAI_006,false,0.0,"[]","Nenhum dado pessoal identificado pelo detector automático."
+LAI_007,true,0.70,"['NOME']","Detectados 1 dado(s) pessoal(is): NOME via REGEX."
+LAI_008,true,0.90,"['RG', 'NOME']","Detectados 2 dado(s) pessoal(is): RG, NOME via REGEX."
+LAI_009,false,0.0,"[]","Nenhum dado pessoal identificado pelo detector automático."
+LAI_010,true,1.0,"['CPF', 'TELEFONE']","Detectados 2 dado(s) pessoal(is): CPF, TELEFONE via REGEX."
